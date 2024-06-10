@@ -17,7 +17,7 @@ Design dirigido à domínio
 
 - Agregados
 - Value Objects
-- Eventos de Domínio
+- Event of domain
 - Subdomínios (bounded context)
 - Entidades
 - Casos de Uso
